@@ -10,9 +10,9 @@
 
 ### Recent Research
 
-- CoNTe: A Core Network Temporal Blockchain for 5G [Link](https://www.mdpi.com/1424-8220/20/18/5281/htm)
-- Towards Blockchain for Decentralized Self-Organizing Wireless Networks [Link](https://repositori.upf.edu/handle/10230/44117)
-- A Distributed Ledger-Enabled Interworking Model for the Wireless Air Interface [Link](https://repositori.upf.edu/handle/10230/44102)
+- CoNTe: A Core Network Temporal Blockchain for 5G [[Link]](https://www.mdpi.com/1424-8220/20/18/5281/htm)
+- Towards Blockchain for Decentralized Self-Organizing Wireless Networks [[Link]](https://repositori.upf.edu/handle/10230/44117)
+- A Distributed Ledger-Enabled Interworking Model for the Wireless Air Interface [[Link]](https://repositori.upf.edu/handle/10230/44102)
 
 <!--
 **stevenplatt/stevenplatt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
