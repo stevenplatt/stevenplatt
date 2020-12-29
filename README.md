@@ -1,5 +1,5 @@
-### Hi there 👋
-## I'm a Network Researcher, Engineer, and lover of technology!!
+### Hi there, I'm Steven - aka TelecomSteve 👋
+## I'm a Network Researcher, Engineer, and lover of Open Source!!
 
 - 🔭 I just launched my first course: [Become A VS Code SuperHero!][course]!
 - 🌱 I’m currently learning Python Data Visualization
@@ -8,6 +8,13 @@
 - 💬 Ask me about Blockchain and Wireless
 - 🥅 2021 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to drawing and photography
+
+### Connect with me:
+
+[<img align="left" alt="telecomsteve.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="Steven Platt | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+
+<br />
 
 <!--
 **stevenplatt/stevenplatt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
