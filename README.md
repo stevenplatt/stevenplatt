@@ -1,13 +1,13 @@
 ### Hi there, I'm Steven - aka TelecomSteve 👋
-## I'm a Network Researcher, Engineer, and lover of Open Source!!
+## I'm a Network Researcher and lover of Open Source!!
 
-- 🔭 I just launched my first course: [Become A VS Code SuperHero!][course]!
-- 🌱 I’m currently learning Python Data Visualization
+- 🔬 I’m currently completing a PhD
+- 💡 In my free time I’m learning Python Data Visualization
 - 👯 I’m looking to collaborate on Wireless Network Research
 - 🤔 I’m looking for help with Custom Linux
 - 💬 Ask me about Blockchain and Wireless
 - 🥅 2021 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love to drawing and photography
+- ⚡ Fun fact: I’m left-handed
 
 ### Connect with me:
 
