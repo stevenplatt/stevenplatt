@@ -1,7 +1,7 @@
 ### Hi there, I'm Steven - aka TelecomSteve 👋
 ## I'm a Network Researcher and lover of Open Source!!
 
-- 💡 I’m currently learning Python Data Visualization
+- 🔭 I’m currently learning Python Data Visualization
 - 👯 I’m looking to collaborate on Wireless Network Research
 - 🤔 I’m looking for help with Custom Linux
 - 💬 Ask me about Blockchain and Wireless
@@ -10,6 +10,8 @@
 
 <!--
 **stevenplatt/stevenplatt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Alternate Example: https://github.com/codeSTACKr/codeSTACKr/blob/master/README.md
 
 Here are some ideas to get you started:
 
