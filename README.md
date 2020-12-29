@@ -4,7 +4,7 @@
 - 🏫 I’m currently learning Python Data Visualization
 - 👯 I’m looking to collaborate on Wireless Network Research
 - 🤔 I’m looking for help with Custom Linux
-- 💬 Ask me about Blockchain and Wireless
+- 💬 Ask me about Blockchain, Wireless, and ExPat Life
 - 🥅 2021 Goals: Defeat final boss level of PhD and contribute more to Open Source
 - ⚡ Fun fact: I’m left-handed
 
