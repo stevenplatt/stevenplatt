@@ -1,7 +1,7 @@
 ### Hi there, I'm Steven - aka TelecomSteve 👋
 ## I'm a Network Researcher and lover of Open Source!!
 
-- 🔭 I’m currently learning Python Data Visualization
+- 🏫 I’m currently learning Python Data Visualization
 - 👯 I’m looking to collaborate on Wireless Network Research
 - 🤔 I’m looking for help with Custom Linux
 - 💬 Ask me about Blockchain and Wireless
