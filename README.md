@@ -1,9 +1,9 @@
 ### Hi there, I'm Steven - aka TelecomSteve 👋
-## I'm a Network Researcher and lover of Open Source!!
+## I'm a Network Engineer & Researcher
 
 - 🏫 I’m currently learning Python Data Visualization
 - 👯 I’m looking to collaborate on Wireless Network Research
-- 🤔 I’m looking for help with Custom Linux
+- 🤔 I’m looking for help with Embedded Linux
 - 💬 Ask me about Blockchain, 5G, and Expat Life
 - 🥅 2021 Goals: Defeat final boss level of PhD and contribute more to Open Source
 - ⚡ Fun fact: I’m left-handed
