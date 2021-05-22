@@ -1,5 +1,5 @@
 ## Hi there, I'm Steven - aka TelecomSteve 👋
-### I'm a Network Engineer & Researcher
+### I'm a Distributed Systems Researcher and Engineer
 
 - 🏫 I’m currently learning Python Data Visualization
 - 👯 I’m looking to collaborate on Wireless Network Research
