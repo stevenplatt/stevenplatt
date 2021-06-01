@@ -1,4 +1,4 @@
-## Hi there, I'm Steven - aka TelecomSteve 👋
+## Hi there, I'm Steven - aka Telecom Steve 👋
 ### I'm a Distributed Systems Researcher and Engineer
 
 - 🏫 I’m currently learning Python Data Visualization
