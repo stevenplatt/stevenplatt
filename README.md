@@ -2,7 +2,7 @@
 ### I'm a Distributed Systems Researcher and Engineer
 
 - 🏫 I’m currently learning Python Data Visualization
-- 👯 I’m looking to collaborate on Wireless Network Research
+- 👯 I’m looking to collaborate on Network Research
 - 🤔 I’m looking for help with Embedded Linux
 - 💬 Ask me about Blockchain, 5G, and Expat Life
 - 🥅 2021 Goals: Defeat final boss level of PhD and contribute more to Open Source
