@@ -1,7 +1,7 @@
 ## Hi there, I'm Steven - aka Telecom Steve 👋
 ### I'm a Distributed Systems Researcher and Engineer
 
-- 🏫 I’m currently learning Python Data Visualization
+- 🏫 I’m currently learning Kubernetes
 - 👯 I’m looking to collaborate on Network Research
 - 💬 Ask me about Blockchain, 5G, and Expat Life
 - 🥅 2021 Goals: Defeat final boss level of PhD and contribute more to Open Source
