@@ -3,7 +3,7 @@
 
 - 😄 I’m currently working on the Mina protocol and blockchain.
 - 🏫 I’m currently learning Javascript and Zero-Knowledge Cryptography.
-- 👯 I’m looking to collaborate on Blockchain and Network Research.
+- 👯 I’m looking to collaborate on Peer-to-Peer (P2P) Network Research.
 - 💬 Ask me about Blockchain, 5G, and Expat Life.
 - 🥅 2022 Goals: Contribute more to Open Source and recover after PhD.
 - ⚡ Fun fact: I’m left-handed.
