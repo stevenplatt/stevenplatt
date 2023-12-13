@@ -1,7 +1,6 @@
 ## Hi there, I'm Steven - aka telecomsteve 👋
 ### I'm a Blockchain Researcher and Engineer
 
-- 😄 I’m currently working on the book "Web3 Application Architecture" (Manning 2023).
 - 🏫 I’m currently learning Javascript and Zero-Knowledge Cryptography.
 - 👯 I’m looking to collaborate on Peer-to-Peer (P2P) Network Research.
 - 💬 Ask me about Blockchain and Web3.
