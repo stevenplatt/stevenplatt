@@ -13,8 +13,8 @@
 - Towards Blockchain for Decentralized Self-Organizing Wireless Networks [[Link]](https://repositori.upf.edu/handle/10230/44117).
 
 <a href="https://github.com/stevenplatt">
-  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=stevenplatt&show_icons=true&include_all_commits=true&custom_title=GitHub+Stats&theme=radical">
-  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=stevenplatt&layout=pie&theme=radical">
+  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=stevenplatt&show_icons=true&include_all_commits=true&custom_title=GitHub+Stats&theme=dracula">
+  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=stevenplatt&layout=donut&theme=dracula">
 </a>
 
 
