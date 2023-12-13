@@ -1,5 +1,5 @@
 ## Hi there, I'm Steven - aka telecomsteve 👋
-### I'm a Blockchain Researcher and Engineer
+### I'm a Platform Engineer and Researcher
 
 - 🏫 I’m currently learning Javascript and Zero-Knowledge Cryptography.
 - 👯 I’m looking to collaborate on Peer-to-Peer (P2P) Network Research.
