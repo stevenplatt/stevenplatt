@@ -12,11 +12,6 @@
 - CoNTe: A Core Network Temporal Blockchain for 5G [[Link]](https://www.mdpi.com/1424-8220/20/18/5281/htm).
 - Towards Blockchain for Decentralized Self-Organizing Wireless Networks [[Link]](https://repositori.upf.edu/handle/10230/44117).
 
-<a href="https://github.com/stevenplatt">
-  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=stevenplatt&show_icons=true&include_all_commits=true&custom_title=GitHub+Stats&theme=blueberry">
-  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=stevenplatt&layout=donut&theme=blueberry">
-</a>
-
 
 <!--
 **stevenplatt/stevenplatt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
