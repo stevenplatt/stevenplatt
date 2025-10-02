@@ -1,6 +1,6 @@
 ## Hi there, I'm Steven - aka telecomsteve 👋
 
-- 🏫 I’m currently learning Rust.
+- 🏫 I’m currently learning Vue JS.
 - 👯 I’m looking to collaborate on Peer-to-Peer (P2P) Network Research.
 - 💬 Ask me about Blockchain and Web3.
 - ⚡ Fun fact: I’m left-handed.
